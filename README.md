@@ -13,7 +13,7 @@ This is a simple chrome extension to see corona virus (Covid19) cases in your co
 
 ### Screenshot
 
-![](http://koushikavula.tech/img/covid.jpg?i=1)
+![](https://www.github.com/kosuhikavula/covidextension/images/covid.jpg)
 
 
 ### Installation
