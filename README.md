@@ -11,9 +11,6 @@ This is a simple chrome extension to see corona virus (Covid19) cases in your co
 * Today death counts in your country.
 * Total death rate in your country.
 
-### Screenshot
-
-![](https://www.github.com/kosuhikavula/covidextension/images/covid.jpg)
 
 
 ### Installation
